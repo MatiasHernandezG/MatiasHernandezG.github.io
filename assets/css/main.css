@@ -9,6 +9,17 @@
     src: url('assets/css/Fonts/fonts/KantarBrownWeb-Light.woff2'); /*URL to font*/
 }
 
+#nav.two-rows {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#nav.two-rows a {
+    flex: 1 1 50%; /* Each link takes up 50% of the row */
+    text-align: center; /* Center the text */
+}
+
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
