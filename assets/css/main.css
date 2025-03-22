@@ -1,4 +1,7 @@
-@import url("https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,200");
+@font-face {
+    font-family: 'KantarBrownWeb-Light'; /*a name to be used later*/
+    src: url('assets/css/Fonts/fonts/KantarBrownWeb-Light.woff2'); /*URL to font*/
+}
 
 /*
 	Halcyonic by HTML5 UP
@@ -85,7 +88,7 @@ input, select, textarea {
 		background: #000000 url("images/bg03.jpg");
 		color: #000000;
 		font-size: 13.5pt;
-		font-family: 'Yanone Kaffeesatz';
+		font-family: 'KantarBrownWeb-Light';
 		line-height: 1.85em;
 		font-weight: 300;
 	}
@@ -93,7 +96,7 @@ input, select, textarea {
 	input, textarea, select {
 		color: #474f51;
 		font-size: 13.5pt;
-		font-family: 'Yanone Kaffeesatz';
+		font-family: 'KantarBrownWeb-Light';
 		line-height: 1.85em;
 		font-weight: 300;
 	}

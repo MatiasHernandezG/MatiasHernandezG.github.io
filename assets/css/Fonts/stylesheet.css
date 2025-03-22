@@ -1,0 +1,94 @@
+/*
+ * Legal Disclaimer
+ *
+    print '\n', 'Note that the webfonts share the TT sources'
+ * These Fonts are licensed for unlimited use on domains and their subdomains of The Kantar Group.
+ * It is illegal to download or use them on other websites.
+ *
+ * While the @font-face statements below may be modified by the client, this
+ * disclaimer may not be removed.
+ *
+ * Lineto.com, 2016
+ */
+
+
+
+@font-face {
+    font-family: "KantarBrownWeb-LightItalic";
+    src: url("fonts/KantarBrownWeb-LightItalic.eot");
+    src: url("fonts/KantarBrownWeb-LightItalic.eot?#iefix") format("embedded-opentype"),
+         url("fonts/KantarBrownWeb-LightItalic.woff2") format("woff2"),
+         url("fonts/KantarBrownWeb-LightItalic.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "KantarBrownWeb-BoldItalic";
+    src: url("fonts/KantarBrownWeb-BoldItalic.eot");
+    src: url("fonts/KantarBrownWeb-BoldItalic.eot?#iefix") format("embedded-opentype"),
+         url("fonts/KantarBrownWeb-BoldItalic.woff2") format("woff2"),
+         url("fonts/KantarBrownWeb-BoldItalic.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "KantarBrownWeb-Italic";
+    src: url("fonts/KantarBrownWeb-Italic.eot");
+    src: url("fonts/KantarBrownWeb-Italic.eot?#iefix") format("embedded-opentype"),
+         url("fonts/KantarBrownWeb-Italic.woff2") format("woff2"),
+         url("fonts/KantarBrownWeb-Italic.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "KantarBrownWeb-Thin";
+    src: url("fonts/KantarBrownWeb-Thin.eot");
+    src: url("fonts/KantarBrownWeb-Thin.eot?#iefix") format("embedded-opentype"),
+         url("fonts/KantarBrownWeb-Thin.woff2") format("woff2"),
+         url("fonts/KantarBrownWeb-Thin.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "KantarBrownWeb-ThinItalic";
+    src: url("fonts/KantarBrownWeb-ThinItalic.eot");
+    src: url("fonts/KantarBrownWeb-ThinItalic.eot?#iefix") format("embedded-opentype"),
+         url("fonts/KantarBrownWeb-ThinItalic.woff2") format("woff2"),
+         url("fonts/KantarBrownWeb-ThinItalic.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "KantarBrownWeb-Bold";
+    src: url("fonts/KantarBrownWeb-Bold.eot");
+    src: url("fonts/KantarBrownWeb-Bold.eot?#iefix") format("embedded-opentype"),
+         url("fonts/KantarBrownWeb-Bold.woff2") format("woff2"),
+         url("fonts/KantarBrownWeb-Bold.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "KantarBrownWeb-Light";
+    src: url("fonts/KantarBrownWeb-Light.eot");
+    src: url("fonts/KantarBrownWeb-Light.eot?#iefix") format("embedded-opentype"),
+         url("fonts/KantarBrownWeb-Light.woff2") format("woff2"),
+         url("fonts/KantarBrownWeb-Light.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "KantarBrownWeb-Regular";
+    src: url("fonts/KantarBrownWeb-Regular.eot");
+    src: url("fonts/KantarBrownWeb-Regular.eot?#iefix") format("embedded-opentype"),
+         url("fonts/KantarBrownWeb-Regular.woff2") format("woff2"),
+         url("fonts/KantarBrownWeb-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
