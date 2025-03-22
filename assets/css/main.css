@@ -9,9 +9,17 @@
     src: url('assets/css/Fonts/fonts/KantarBrownWeb-Light.woff2'); /*URL to font*/
 }
 
+.logo-nav-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
 #nav.two-rows {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 #nav.two-rows a {
