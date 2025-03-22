@@ -1,13 +1,13 @@
-@font-face {
-    font-family: 'KantarBrownWeb-Light'; /*a name to be used later*/
-    src: url('assets/css/Fonts/fonts/KantarBrownWeb-Light.woff2'); /*URL to font*/
-}
-
 /*
 	Halcyonic by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+
+@font-face {
+    font-family: 'KantarBrownWeb-Light', sans-serif; /*a name to be used later*/
+    src: url('assets/css/Fonts/fonts/KantarBrownWeb-Light.woff2'); /*URL to font*/
+}
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -20,60 +20,61 @@ tfoot, thead, tr, th, td, article, aside,
 canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;}
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-	display: block;}
+    display: block;
+}
 
 body {
-	line-height: 1;
+    line-height: 1;
 }
 
 ol, ul {
-	list-style: none;
+    list-style: none;
 }
 
 blockquote, q {
-	quotes: none;
+    quotes: none;
 }
 
-	blockquote:before, blockquote:after, q:before, q:after {
-		content: '';
-		content: none;
-	}
+blockquote:before, blockquote:after, q:before, q:after {
+    content: '';
+    content: none;
+}
 
 table {
-	border-collapse: collapse;
-	border-spacing: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
 }
 
 body {
-	-webkit-text-size-adjust: none;
+    -webkit-text-size-adjust: none;
 }
 
 mark {
-	background-color: transparent;
-	color: inherit;
+    background-color: transparent;
+    color: inherit;
 }
 
 input::-moz-focus-inner {
-	border: 0;
-	padding: 0;
+    border: 0;
+    padding: 0;
 }
 
 input, select, textarea {
-	-moz-appearance: none;
-	-webkit-appearance: none;
-	-ms-appearance: none;
-	appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
 }
-
 /* Basic */
 
 	html {
@@ -88,7 +89,7 @@ input, select, textarea {
 		background: #000000 url("images/bg03.jpg");
 		color: #000000;
 		font-size: 13.5pt;
-		font-family: 'KantarBrownWeb-Light';
+		font-family: 'KantarBrownWeb-Light', sans-serif;
 		line-height: 1.85em;
 		font-weight: 300;
 	}
@@ -96,7 +97,7 @@ input, select, textarea {
 	input, textarea, select {
 		color: #474f51;
 		font-size: 13.5pt;
-		font-family: 'KantarBrownWeb-Light';
+		font-family: 'KantarBrownWeb-Light', sans-serif;
 		line-height: 1.85em;
 		font-weight: 300;
 	}
